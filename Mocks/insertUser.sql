@@ -1,0 +1,10 @@
+insert into "User" (firstName, lastName, email, password, userType) values ('Torrey', 'MacAlaster', 'tmacalaster0@drupal.org', 'aZ2*NNsL73f', 'admin');
+insert into "User" (firstName, lastName, email, password, userType) values ('Madelene', 'McFaell', 'mmcfaell1@biblegateway.com', 'oN9.@"2nTv&vzn', 'client');
+insert into "User" (firstName, lastName, email, password, userType) values ('Griswold', 'Daniell', 'gdaniell2@cloudflare.com', 'yJ0#FbGN&~_ssD', 'admin');
+insert into "User" (firstName, lastName, email, password, userType) values ('Torey', 'Revans', 'trevans3@tumblr.com', 'bS7@5aY#1A@''', 'admin');
+insert into "User" (firstName, lastName, email, password, userType) values ('Nevins', 'Smitten', 'nsmitten4@google.co.jp', 'uJ4~+*upzyDt1/', 'client');
+insert into "User" (firstName, lastName, email, password, userType) values ('Matias', 'Yven', 'myven5@newsvine.com', 'vJ8$`&qCifwNMY>', 'admin');
+insert into "User" (firstName, lastName, email, password, userType) values ('Tate', 'Mothersdale', 'tmothersdale6@cafepress.com', 'zR3/*B=H22C5t', 'admin');
+insert into "User" (firstName, lastName, email, password, userType) values ('Amandi', 'Kingscott', 'akingscott7@theguardian.com', 'mJ8?pw/&,dvR', 'client');
+insert into "User" (firstName, lastName, email, password, userType) values ('Shaylyn', 'Ewles', 'sewles8@free.fr', 'fC0)cHnW', 'client');
+insert into "User" (firstName, lastName, email, password, userType) values ('Brewer', 'Aberdeen', 'baberdeen9@twitter.com', 'mH3"a(%Bh9', 'admin');

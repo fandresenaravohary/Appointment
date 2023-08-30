@@ -1,0 +1,14 @@
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-01', 'Clinic A', 'Regular Checkup', 'Doctor');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-02', 'Dental Center B', 'Teeth Cleaning', 'Dentist');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-03', 'Hospital C', 'Pre-op Examination', 'Surgeon');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-04', 'Therapy Center X', 'Physical Therapy Session', 'Physiotherapist');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-05', 'Mental Health Clinic', 'Counseling Session', 'Psychiatrist');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-06', 'Eye Care Center', 'Vision Checkup', 'Medical');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-07', 'Radiology Clinic', 'MRI Scan', 'Medical');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-08', 'Wellness Spa', 'Relaxation Massage', 'Medical');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-09', 'Office Meeting Room', 'Project Discussion', 'Professional');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-10', 'Conference Center', 'Keynote Speech', 'Professional');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-11', 'Virtual Call', 'Client Consultation', 'Professional');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-12', 'Coffee Shop', 'Catch-up with Friends', 'Personal');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-13', 'Park', 'Outdoor Yoga Session', 'Personal');
+INSERT INTO Appointment (appointmentDate, location, description, appointmentType) VALUES ('2023-09-14', 'Home', 'Movie Night', 'Personal');
